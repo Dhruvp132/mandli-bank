@@ -1,0 +1,8 @@
+{
+  "audit": [
+    { "name": "Completed", "value": 60 },
+    { "name": "Pending", "value": 25 },
+    { "name": "Issues", "value": 15 }
+  ],
+  "compliance": [{ "name": "KYC", "value": 92 }, { "name": "AML", "value": 87 }, { "name": "Audit", "value": 78 }]
+}

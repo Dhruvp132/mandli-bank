@@ -1,0 +1,5 @@
+[
+  { "id": "t1", "date": "2025-07-12", "desc": "Salary Credit", "amount": 55000 },
+  { "id": "t2", "date": "2025-07-15", "desc": "ATM Withdrawal", "amount": -5000 },
+  { "id": "t3", "date": "2025-07-20", "desc": "Electricity Bill", "amount": -3200 }
+]

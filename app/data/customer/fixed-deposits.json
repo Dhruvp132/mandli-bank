@@ -1,0 +1,4 @@
+[
+  { "id": "fd1", "amount": 100000, "rate": 7.2, "maturityDate": "2025-10-05" },
+  { "id": "fd2", "amount": 50000, "rate": 6.8, "maturityDate": "2026-01-15" }
+]

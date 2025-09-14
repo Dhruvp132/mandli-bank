@@ -1,0 +1,4 @@
+[
+  { "id": "l1", "customer": "Aditi Mehta", "type": "Personal", "amount": 250000, "status": "pending" },
+  { "id": "l2", "customer": "Karan Joshi", "type": "Agriculture", "amount": 500000, "status": "pending" }
+]

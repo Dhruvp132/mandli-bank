@@ -1,0 +1,4 @@
+[
+  { "memberId": "M-1001", "name": "Ravi Patel", "shares": 1200, "value": 120000 },
+  { "memberId": "M-1002", "name": "Neha Shah", "shares": 800, "value": 80000 }
+]
